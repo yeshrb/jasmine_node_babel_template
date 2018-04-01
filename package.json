@@ -1,0 +1,21 @@
+{
+  "name": "js-good-parts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node run-test.js && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "enzyme": "^3.3.0",
+    "jasmine": "^3.1.0",
+    "jasmine-console-reporter": "^2.0.1",
+    "jsdom": "^11.6.2"
+  }
+}

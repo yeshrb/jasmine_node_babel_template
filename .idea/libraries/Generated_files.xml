@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/run-test.js" />
+        <item url="file://$PROJECT_DIR$/dist/spec/helper/report.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/spec/jasmine-framework-work-spec.js" />
+      <root url="file://$PROJECT_DIR$/dist/spec/best-charge-spec.js" />
+      <root url="file://$PROJECT_DIR$/dist/spec/jasmine-framework-work-spec.js" />
+      <root url="file://$PROJECT_DIR$/dist/spec/best-charge-spec.js" />
+      <root url="file://$PROJECT_DIR$/dist/run-test.js" />
+      <root url="file://$PROJECT_DIR$/dist/spec/helper/report.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
